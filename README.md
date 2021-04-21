@@ -2,7 +2,7 @@
 
 # Yoda Translator App
 
-## Want to talk like Yoda?🌌🔫
+## Want to talk like Yoda?🌌
 
 **Force be with you, A translation app, this is - Hello, this is Translation App**
 
