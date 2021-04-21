@@ -1,3 +1,4 @@
+<img src="Master-Yoda-Transparent-PNG.png" align="right" width=220>
 # Yoda Translator App
 
 ## Want to talk like Yoda?🌌🔫
