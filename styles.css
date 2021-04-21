@@ -1,0 +1,65 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Zen+Dots&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+:root {
+    --primary-color: #10B981;
+    --secondary-color: #262626;
+}
+
+body {
+    margin: 0;
+    font-family: 'Press Start 2P', cursive;
+    /* font-family: 'Zen Dots', cursive; */
+}
+
+h1 {
+    color: var(--secondary-color);
+    background-color: var(--primary-color);
+    margin: 0 auto 0 auto;
+    padding: 1rem 0;
+    text-align: center;
+}
+
+textarea {
+    margin: 2rem auto;
+    display: flex;
+    border-color: var(--secondary-color);
+    border-width: 2px;
+    border-style: solid;
+    width: 50vw;
+    height: 12vh;
+}
+
+button {
+    display: flex;
+    margin: 0 auto;
+    border: 0;
+    padding: 0.65rem 1.85rem;
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+}
+
+.output {
+    margin: 2rem auto;
+    border-color: var(--secondary-color);
+    border-width: 2px;
+    border-style: solid;
+    padding: 5px;
+    width: 50vw;
+    height: 12vh;
+}
+
+footer {
+    background-color: var(--primary-color);
+    padding: 1rem;
+    text-align: center;
+}
+
+.footer-headline {
+    max-width: 600px;
+}
+
+.footer-text {
+    margin: 0 auto;
+    max-width: 650px;
+}
