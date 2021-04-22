@@ -7,7 +7,7 @@ function urlGenerator(txt) {
 }
 
 function errorHandler(){
-    alert("Sorry for the inconvenience, we can translate only 5 sentences per hour.\nTry after some time:)")
+    alert("Sorry for the inconvenience, we can translate only 5 sentences per hour.\nPlease try after some time :)")
 }
 
 function clickHandler() {
